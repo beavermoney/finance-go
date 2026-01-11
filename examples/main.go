@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/fijoyapp/finance-go/options"
+	"github.com/beavermoney/finance-go/options"
 )
 
 // This file lists several usage examples of this library

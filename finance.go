@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fijoyapp/finance-go/form"
+	"github.com/beavermoney/finance-go/form"
 	"golang.org/x/net/publicsuffix"
 )
 

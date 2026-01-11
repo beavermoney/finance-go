@@ -3,10 +3,10 @@ package chart
 import (
 	"context"
 
-	finance "github.com/fijoyapp/finance-go"
-	"github.com/fijoyapp/finance-go/datetime"
-	form "github.com/fijoyapp/finance-go/form"
-	"github.com/fijoyapp/finance-go/iter"
+	finance "github.com/beavermoney/finance-go"
+	"github.com/beavermoney/finance-go/datetime"
+	form "github.com/beavermoney/finance-go/form"
+	"github.com/beavermoney/finance-go/iter"
 	"github.com/shopspring/decimal"
 )
 

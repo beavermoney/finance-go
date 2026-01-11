@@ -1,13 +1,11 @@
-module github.com/fijoyapp/finance-go
+module github.com/beavermoney/finance-go
 
-go 1.23.0
-
-toolchain go1.24.6
+go 1.25.5
 
 require (
 	github.com/shopspring/decimal v1.4.0
-	github.com/stretchr/testify v1.10.0
-	golang.org/x/net v0.43.0
+	github.com/stretchr/testify v1.11.1
+	golang.org/x/net v0.48.0
 )
 
 require (

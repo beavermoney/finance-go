@@ -1,7 +1,7 @@
 package iter
 
 import (
-	"github.com/fijoyapp/finance-go/form"
+	"github.com/beavermoney/finance-go/form"
 )
 
 // Query is the function used to get a response listing.

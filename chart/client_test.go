@@ -3,7 +3,7 @@ package chart
 import (
 	"testing"
 
-	tests "github.com/fijoyapp/finance-go/testing"
+	tests "github.com/beavermoney/finance-go/testing"
 	"github.com/stretchr/testify/assert"
 )
 

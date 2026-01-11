@@ -3,8 +3,8 @@ package equity
 import (
 	"testing"
 
-	finance "github.com/fijoyapp/finance-go"
-	tests "github.com/fijoyapp/finance-go/testing"
+	finance "github.com/beavermoney/finance-go"
+	tests "github.com/beavermoney/finance-go/testing"
 	"github.com/stretchr/testify/assert"
 )
 
